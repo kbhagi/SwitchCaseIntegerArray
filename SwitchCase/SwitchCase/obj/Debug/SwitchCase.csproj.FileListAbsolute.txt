@@ -1,0 +1,5 @@
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwitchCase\SwitchCase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
